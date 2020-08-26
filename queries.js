@@ -70,6 +70,7 @@ const deleteUser = (request, response) => {
   });
 };
 
+// Exports
 module.exports = {
   getUsers,
   getUserById,
